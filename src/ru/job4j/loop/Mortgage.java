@@ -10,6 +10,4 @@ public class Mortgage {
         } while (amount > 0);
         return year;
     }
-
-
 }
